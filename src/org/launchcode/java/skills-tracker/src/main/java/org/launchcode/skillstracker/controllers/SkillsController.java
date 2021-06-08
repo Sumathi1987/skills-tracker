@@ -63,3 +63,4 @@ public class SkillsController {
         return "<html>"+"<body>"+returnText+"</body>"+"</html>";
     }
 }
+
